@@ -13,4 +13,4 @@
 ⚫ This website is totally dynamic and there are name of some dynamic feature (login, Register, Private Route & and many other )
 ⚫ This website most challenging part was backend (express, mongoDb ) work.
 ⚫ This website is friendly single page website for every kind of People .
-⚫ Thanks for visit my website hope You like this website TNQ
+⚫ Thanks for visit my website hope You like this website TNQ..
