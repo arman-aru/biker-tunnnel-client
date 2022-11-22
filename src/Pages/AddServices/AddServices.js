@@ -52,7 +52,7 @@ const AddServices = () => {
   return (
     <div className="bg-white">
       <h1 className="text-center text-5xl font-extrabold mb-5 text-green-400  ">
-        ADD YOUR TOUR
+        ADD Your Place
       </h1>
 
       <div className="grid md:grid-cols-2">

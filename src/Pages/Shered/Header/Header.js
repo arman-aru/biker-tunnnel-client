@@ -50,7 +50,7 @@ const Header = () => {
         className="p-1 font-normal"
       >
          <Link to='/blog'  className="flex items-center hover:text-lg duration-300 transform hover:text-amber-200 font-bold ">
-         Blog
+         My Blog
         </Link>
       </Typography>
     
@@ -83,7 +83,7 @@ const Header = () => {
         className="p-1 font-normal"
       >
         <Link onClick={handelLogOut}  className="flex items-center hover:text-lg duration-300 transform hover:text-amber-200 font-bold ">
-       Log Out
+       Sign Out
         </Link>
       </Typography>
       </>
@@ -130,7 +130,7 @@ const Header = () => {
                   type="button"
                   className=" hidden md:block text-white font-bold  bg-purple-600 rounded-lg text-base px-8 py-2 text-center mr-2 mb-2"
                 >
-                  Log Out
+                  Sign Out
                 </button>
               ) : (
                 <Link to="/login">
@@ -138,7 +138,7 @@ const Header = () => {
                     type="button"
                     className=" hidden md:block text-teal-500 font-bold  bg-white  rounded-lg text-base px-8 py-2 text-center mr-2 mb-2"
                   >
-                    Log In
+                    Sign In
                   </button>
                 </Link>
               )}
