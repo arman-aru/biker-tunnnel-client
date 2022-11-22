@@ -8,8 +8,6 @@ const AddServices = () => {
   useTitle("Add Services");
   const { user } = useContext(myContext);
 
- 
-
   const handlePlaceOrder = (event) => {
     event.preventDefault();
 
@@ -23,7 +21,6 @@ const AddServices = () => {
     // const img = user?.photoURL || 'image'
 
     const service = {
-     
       title,
       price,
       description: message,
@@ -99,7 +96,7 @@ const AddServices = () => {
           ></textarea>
 
           <input
-            className="btn text-body-color hover:border-primary hover:bg-primary inline-block rounded-xl border hover:border-black py-3 px-9 text-base font-medium transition hover:bg-white bg-teal-500 hover:px-14  hover:text-black text-white"
+            className="btn text-body-color hover:border-primary hover:bg-primary inline-block rounded-xl border hover:border-black py-3 px-9 text-base font-medium transition hover:bg-white bg-emerald-500 hover:px-14  hover:text-black text-white"
             type="submit"
             value="Add Your Service"
           />

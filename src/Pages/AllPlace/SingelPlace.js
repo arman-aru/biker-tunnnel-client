@@ -167,7 +167,7 @@ const SingelPlace = () => {
 
                   <input
                     onClick={notify}
-                    className="btn text-body-color hover:border-primary hover:bg-primary inline-block rounded-xl border hover:border-black py-3 px-9 text-base font-medium transition hover:bg-white bg-teal-500 hover:px-14  hover:text-black text-white"
+                    className="btn text-body-color hover:border-primary hover:bg-primary inline-block rounded-xl border hover:border-black py-3 px-9 text-base font-medium transition hover:bg-white bg-emerald-500 hover:px-14  hover:text-black text-white"
                     type="submit"
                     value="Add Review"
                   />
@@ -205,7 +205,7 @@ const SingelPlace = () => {
                 Please login to add a review!!!
               </h1>
               <Link className="flex justify-center" to="/login">
-                <button className="w-full tracking-wider px-8 py-2.5 mt-6 text-sm text-teal-400  duration-300 transform border border-teal-500 hover:text-white rounded-md lg:w-auto hover:px-14 hover:bg-teal-500 focus:outline-none focus:bg-teal-500 ml-5">
+                <button className="w-full tracking-wider px-8 py-2.5 mt-6 text-sm text-emerald-400  duration-300 transform border border-teal-500 hover:text-white rounded-md lg:w-auto hover:px-14 hover:bg-emerald-500 focus:outline-none focus:bg-emerald-500 ml-5">
                   Login
                 </button>
               </Link>

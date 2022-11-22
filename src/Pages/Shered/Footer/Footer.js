@@ -13,7 +13,7 @@ const Footer = () => {
                   <img
                     src={logo}
                     alt="logo"
-                    className="max-w-full bg-teal-300 rounded-xl"
+                    className="max-w-full bg-emerald-300 rounded-xl"
                   />
                 </div>
                 <p className="text-body-color mb-7 text-base">
@@ -171,9 +171,7 @@ const Footer = () => {
                     </svg>
                   </div>
                 </div>
-                <p className="text-body-color text-base">
-                  &copy; 2022 ARMAN
-                </p>
+                <p className="text-body-color text-base">&copy; 2022 ARMAN</p>
               </div>
             </div>
           </div>

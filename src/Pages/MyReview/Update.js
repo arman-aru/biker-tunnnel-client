@@ -75,7 +75,7 @@ const Update = () => {
 
         <input
           onClick={handelNavigate}
-          className="mb-5 btn text-body-color hover:border-primary hover:bg-primary inline-block rounded-xl border hover:border-black py-3 px-9 text-base font-medium transition hover:bg-white bg-teal-500 hover:px-14  hover:text-black text-white"
+          className="mb-5 btn text-body-color hover:border-primary hover:bg-primary inline-block rounded-xl border hover:border-black py-3 px-9 text-base font-medium transition hover:bg-white bg-emerald-500 hover:px-14  hover:text-black text-white"
           type="submit"
           value="Update Review"
         />
