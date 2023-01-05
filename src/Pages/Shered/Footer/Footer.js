@@ -118,7 +118,7 @@ const Footer = () => {
                   </li>
                   <li>
                     <div className="text-body-color hover:text-primary mb-2 inline-block text-base leading-loose">
-                      Download App
+                      Download Apps
                     </div>
                   </li>
                 </ul>
@@ -127,7 +127,7 @@ const Footer = () => {
             <div className="w-full px-4 sm:w-1/2 lg:w-3/12">
               <div className="mb-10 w-full">
                 <h4 className="text-dark mb-9 text-lg font-semibold">
-                  Follow Us On
+                  Follow Us
                 </h4>
                 <div className="mb-6 flex items-center">
                   <div className="text-dark hover:bg-primary hover:border-primary mr-3 flex h-8 w-8 items-center justify-center rounded-full border border-[#E5E5E5] hover:text-white sm:mr-4 lg:mr-3 xl:mr-4">
@@ -171,7 +171,7 @@ const Footer = () => {
                     </svg>
                   </div>
                 </div>
-                <p className="text-body-color text-base">&copy; 2022 ARMAN</p>
+                <p className="text-body-color text-base">&copy; 2022 Safiqul Islam</p>
               </div>
             </div>
           </div>
