@@ -17,7 +17,7 @@ const HeroSection = () => {
                 Enjoy Your Travel With
               </p>
               <h1 className="text-6xl leading-tight  font-semibold text-gray-800 uppercase  ">
-                Trusted Travel <span className="text-emerald-500">Agency</span>{" "}
+                Trusted Tour <span className="text-emerald-500">Agency</span>{" "}
               </h1>
 
               <p className="mt-2 text-gray-500 ">
