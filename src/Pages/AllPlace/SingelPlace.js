@@ -116,7 +116,7 @@ const SingelPlace = () => {
               </h1>
               <p className="font-bold text-lg text-lime-400">
                 Total Hours:{" "}
-                <span className="text-2xl text-emerald-500">{time} H</span>{" "}
+                <span className="text-2xl text-blue-600">{time} H</span>{" "}
               </p>
             </div>
 

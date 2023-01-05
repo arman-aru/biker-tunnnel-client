@@ -33,7 +33,7 @@ const HomeCard = ({ place }) => {
                   </div>
                   <Link
                     to={`/place/${_id}`}
-                    className="text-white  hover:bg-transparent inline-block rounded-full border hover:border-emerald-600 bg-emerald-500 py-2 px-7 text-base font-medium transition hover:text-emerald-500 "
+                    className="text-white  hover:bg-transparent inline-block rounded-full border hover:border-emerald-600 bg-emerald-500 py-2 px-7 text-base font-medium transition hover:text-blue-600 "
                   >
                     View Details
                   </Link>

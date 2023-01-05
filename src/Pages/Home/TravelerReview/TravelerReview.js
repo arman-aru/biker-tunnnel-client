@@ -19,11 +19,9 @@ const TravelerReview = () => {
 
           <div className="w-full lg:w-1/2">
             <div className="lg:max-w-lg">
-              <p className=" italic font-bold text-emerald-500 text-sm">
-                Visitor
-              </p>
+              <p className=" italic font-bold text-blue-600 text-sm">Visitor</p>
               <h1 className="text-3xl leading-tight bg-emerald-500  font-semibold text-gray-800 uppercase  ">
-                Saidur Rahman{" "}
+                Safiqul Islam{" "}
               </h1>
 
               <p className="mt-2 text-gray-500 ">

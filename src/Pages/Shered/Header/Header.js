@@ -148,7 +148,7 @@ const Header = () => {
               <Link to="/login">
                 <button
                   type="button"
-                  className=" hidden md:block text-emerald-500 font-bold  bg-white  rounded-lg text-base px-8 py-2 text-center mr-2 mb-2"
+                  className=" hidden md:block text-blue-600 font-bold  bg-white  rounded-lg text-base px-8 py-2 text-center mr-2 mb-2"
                 >
                   Sign In
                 </button>
